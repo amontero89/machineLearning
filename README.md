@@ -10,3 +10,10 @@ Notebooks:
 - ML_ClusteringBikes
 - ML - Clustering_Jerarquico
 - ML - Clustering_SOM
+
+## Anomalías
+
+- Data: Data credit applications example dataset: https://www.dropbox.com/s/koq0s4jvlx5fq6e/Credit_Card_Applications.csv?dl=0
+
+Notebooks:
+- ML_SOM_Anomalías
